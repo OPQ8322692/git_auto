@@ -1,0 +1,61 @@
+[ {
+  "uid" : "4aac33f0ba65860",
+  "name" : "2.0请求获取reorderToken",
+  "time" : {
+    "start" : 1645439405744,
+    "stop" : 1645439406039,
+    "duration" : 295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28ffc7403071991b",
+  "name" : "1.0请求获取reorderToken1",
+  "time" : {
+    "start" : 1645439405447,
+    "stop" : 1645439405726,
+    "duration" : 279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af2fa224c698bf8e",
+  "name" : "1.0请求获取reorderToken1",
+  "time" : {
+    "start" : 1644486883143,
+    "stop" : 1644486884533,
+    "duration" : 1390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40304ba2355f2b73",
+  "name" : "3.0发布师傅-家具安装订单",
+  "time" : {
+    "start" : 1645439406052,
+    "stop" : 1645439407054,
+    "duration" : 1002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48bbb3aa42503b50",
+  "name" : "3.0发布师傅-家具安装订单",
+  "time" : {
+    "start" : 1644486886149,
+    "stop" : 1644486888181,
+    "duration" : 2032
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5559c37e5413e9d9",
+  "name" : "2.0请求获取reorderToken",
+  "time" : {
+    "start" : 1644486884546,
+    "stop" : 1644486886137,
+    "duration" : 1591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,17 @@
+#githug的账号：OPQ8322692/Zwh8322692
+BASE:
+  #log等级
+  log_level: "debug"
+  #扩展名
+  log_extension: ".log"
+  test:
+    url: "test-user.wanshifu.com"
+    case_file: "auto_test_excel.xlsx"
+    case_sheet: "万师傅用户组接口用例模板"
+
+email:
+  smtpserver: "smtp.qq.com"
+  username: "woaiden@foxmail.com"
+  #password: "nufdombffbdzbhej"
+  password: "fvcpsdognagqbjie"
+  receiver: "zhangweiheng@wshifu.com"

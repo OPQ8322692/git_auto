@@ -1,0 +1,20 @@
+2022-02-21 18:30:05,447 Request DEBUG 发送post请求 
+2022-02-21 18:30:05,743 Request DEBUG 发送post请求 
+2022-02-21 18:30:06,052 Request DEBUG 发送post请求 
+2022-02-21 18:30:06,257 Request DEBUG 发送post请求 
+2022-02-21 18:30:07,052 E:\zwh_autotest\utils\loggerUtil.py DEBUG 数据库查询结果：{'orderId': 12183534164} 
+2022-02-21 18:51:18,894 Request DEBUG 发送post请求 
+2022-02-21 18:51:19,197 Request DEBUG 发送post请求 
+2022-02-21 18:51:19,490 Request DEBUG 发送post请求 
+2022-02-21 18:51:19,714 Request DEBUG 发送post请求 
+2022-02-21 18:51:20,262 E:\zwh_autotest\utils\loggerUtil.py DEBUG 数据库查询结果：{'orderId': 12183534177} 
+2022-02-21 18:52:27,645 Request DEBUG 发送post请求 
+2022-02-21 18:52:28,115 Request DEBUG 发送post请求 
+2022-02-21 18:52:28,578 Request DEBUG 发送post请求 
+2022-02-21 18:52:28,800 Request DEBUG 发送post请求 
+2022-02-21 18:52:29,476 E:\zwh_autotest\utils\loggerUtil.py DEBUG 数据库查询结果：{'orderId': 12183534181} 
+2022-02-21 18:54:14,390 Request DEBUG 发送post请求 
+2022-02-21 18:54:15,540 AssertUtil ERROR code error,code is 502,expected_code is 200 
+2022-02-21 18:54:15,804 Request DEBUG 发送post请求 
+2022-02-21 18:54:16,879 AssertUtil ERROR code error,code is 502,expected_code is 200 
+2022-02-21 18:54:16,899 Request DEBUG 发送post请求 
